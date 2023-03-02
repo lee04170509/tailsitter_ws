@@ -1,8 +1,0 @@
-prefix=/home/ros/tailsitter_ws/install
-
-Name: mars_drone_sim
-Description: Description of mars_drone_sim
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: nav_msgs roscpp std_msgs

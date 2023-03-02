@@ -1,8 +1,0 @@
-prefix=/home/ros/tailsitter_ws/install
-
-Name: swarm_msgs
-Description: Description of swarm_msgs
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime

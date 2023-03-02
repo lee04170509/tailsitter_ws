@@ -1,8 +1,0 @@
-prefix=/home/ros/tailsitter_ws/install
-
-Name: joy2rc
-Description: Description of joy2rc
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lmpc_interface
-Requires: roscpp

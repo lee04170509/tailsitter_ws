@@ -1,2 +1,0 @@
-set(swarm_msgs_MESSAGE_FILES "/home/ros/tailsitter_ws/src/tailsitter_marsim/swarm_msgs/msg/GlobalExtrinsic.msg;/home/ros/tailsitter_ws/src/tailsitter_marsim/swarm_msgs/msg/GlobalExtrinsicStatus.msg;/home/ros/tailsitter_ws/src/tailsitter_marsim/swarm_msgs/msg/QuadStatePub.msg;/home/ros/tailsitter_ws/src/tailsitter_marsim/swarm_msgs/msg/ObserveTeammate.msg;/home/ros/tailsitter_ws/src/tailsitter_marsim/swarm_msgs/msg/TeamStatus.msg;/home/ros/tailsitter_ws/src/tailsitter_marsim/swarm_msgs/msg/TeammateInfo.msg")
-set(swarm_msgs_SERVICE_FILES "")

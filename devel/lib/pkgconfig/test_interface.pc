@@ -1,8 +1,0 @@
-prefix=/home/ros/tailsitter_ws/devel
-
-Name: test_interface
-Description: Description of test_interface
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
