@@ -1,0 +1,8 @@
+prefix=/home/ros/tailsitter_ws/devel
+
+Name: mars_drone_sim
+Description: Description of mars_drone_sim
+Version: 0.0.0
+Cflags: -I/home/ros/tailsitter_ws/src/tailsitter_marsim/Exploration_sim/mars_drone_sim/include
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roscpp std_msgs

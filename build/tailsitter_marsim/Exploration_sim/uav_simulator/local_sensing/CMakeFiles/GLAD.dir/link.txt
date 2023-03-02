@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libGLAD.so -o /home/ros/tailsitter_ws/devel/lib/libGLAD.so CMakeFiles/GLAD.dir/include/glad.c.o  -L/home/ros/tailsitter_ws/src/lib 

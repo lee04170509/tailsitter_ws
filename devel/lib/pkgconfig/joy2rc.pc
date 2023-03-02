@@ -1,0 +1,8 @@
+prefix=/home/ros/tailsitter_ws/devel
+
+Name: joy2rc
+Description: Description of joy2rc
+Version: 0.0.0
+Cflags: -I/home/ros/tailsitter_ws/src/tailsitter_marsim/SVCPlanner/svc_planner/Control/joy2rc/include
+Libs: -L${prefix}/lib -lmpc_interface
+Requires: roscpp

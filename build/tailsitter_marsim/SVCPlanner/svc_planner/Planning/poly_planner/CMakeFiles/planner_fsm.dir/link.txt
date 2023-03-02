@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -O3 -Wall -g -fPIC   -shared -Wl,-soname,libplanner_fsm.so -o /home/ros/tailsitter_ws/devel/lib/libplanner_fsm.so CMakeFiles/planner_fsm.dir/Apps/fsm_node.cpp.o 
